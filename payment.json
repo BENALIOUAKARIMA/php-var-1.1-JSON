@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "karthi",
+        "payment_schedule" :"first",
+        "bill_number":"0012223",
+        "amount_paid": "dhs100,000",
+        "balance_amount":"dhs500,00",
+        "date": "22_dec,2022"
+    },
+    {
+        "name" : "karthi",
+        "payment_schedule" :"first",
+        "bill_number":"0012223",
+        "amount_paid": "dhs100,000",
+        "balance_amount":"dhs500,00",
+        "date": "22_dec,2022"
+    },
+    {
+        "name" : "karthi",
+        "payment_schedule" :"first",
+        "bill_number":"0012223",
+        "amount_paid": "dhs100,000",
+        "balance_amount":"dhs500,00",
+        "date": "22_dec,2022"
+    },
+    {
+        "name" : "karthi",
+        "payment_schedule" :"first",
+        "bill_number":"0012223",
+        "amount_paid": "dhs100,000",
+        "balance_amount":"dhs500,00",
+        "date": "22_dec,2022"
+    },
+    {
+        "name" : "karthi",
+        "payment_schedule" :"first",
+        "bill_number":"0012223",
+        "amount_paid": "dhs100,000",
+        "balance_amount":"dhs500,00",
+        "date": "22_dec,2022"
+    }
+]
